@@ -1,0 +1,1 @@
+Bingo in Python! This is a digital version of the popular game Bingo. You enter the number of boards you would like to play, the name's of each player, and then enter to call the next number. If you want to play with a larger board size you can easily update that on line 4 of the program (however, the BINGO letters will not line up).
